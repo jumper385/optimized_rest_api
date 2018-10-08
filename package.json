@@ -1,0 +1,30 @@
+{
+  "name": "rest_api_framework",
+  "version": "1.0.0",
+  "description": "Optimizing REST API Architecture ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumper385/optimized_rest_api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "REST",
+    "api",
+    "framework"
+  ],
+  "author": "Henry Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumper385/optimized_rest_api/issues"
+  },
+  "homepage": "https://github.com/jumper385/optimized_rest_api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0"
+  }
+}
